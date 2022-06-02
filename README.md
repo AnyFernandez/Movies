@@ -2,4 +2,4 @@
 ## Integrantes
 - Fabian Coseglia
 - Hernan Moneta
-- Daniela Fernandez
+- Daniela Fernandez, 25, Lanus

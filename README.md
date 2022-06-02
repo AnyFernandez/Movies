@@ -1,5 +1,5 @@
 # Movies
 ## Integrantes
 - Fabian Coseglia
-- Hernan Moneta
+- Hernan Moneta, 39, Rosario
 - Daniela Fernandez

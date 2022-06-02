@@ -1,5 +1,5 @@
 # Movies
 ## Integrantes
-- Fabian Coseglia
+- Fabian Coseglia 30, San Miguel.
 - Hernan Moneta
 - Daniela Fernandez
